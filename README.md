@@ -67,7 +67,7 @@ O sistema define três estados:
 
 ---
 
-## 📊 Possíveis Melhorias
+## Possíveis Melhorias
 - Uso de `deque` para otimização da fila (O(1))
 - Integração com dados em tempo real (simulação)
 - Interface gráfica
