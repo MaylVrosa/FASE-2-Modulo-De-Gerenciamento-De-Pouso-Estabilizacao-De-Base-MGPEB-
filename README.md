@@ -77,7 +77,11 @@ O sistema define três estados:
 
 ## Autoria
 Mayara Luisa Vicente Rosa
+
 Gabriel Coutinho Barcelos
+
 Gabriel Luis de Lima Ramos
+
 Lisandra Araújo
+
 Yury Alexander Tavares
